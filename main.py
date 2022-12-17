@@ -1,4 +1,4 @@
-print("Enter three numbers and the program will form combinations with them to the fourth number you input.")
+print("Enter four numbers and the program will form combinations of multiples the first three numbers to find numbers less than or equal to the fourth number you input.")
 x = int(input())
 y = int(input())
 z = int(input())
